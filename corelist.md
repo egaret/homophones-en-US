@@ -4,7 +4,7 @@
 
 A dictionary-format reference to words that sound alike but are spelled differently, derived from the Carnegie Mellon Pronouncing Dictionary (CMUdict), the WordNet lexical database, and modern English frequency data. This list keeps only collisions between genuinely different words. A possessive that exists only by adding *-'s* — *ad's*, *aid's*, *engine's* — is a grammatical form rather than a word of its own, so it is never a headword here; the same-word pairs it forms, such as *engine's / engines*, are in the companion file **possessive.md**. Possessive words that stand on their own (*its*, *your*, *ours*) are ordinary vocabulary and remain.
 
-Inclusion criteria, reading notes, the pronunciation key and the method are in **[corelist-inclusion-criteria.md](corelist-inclusion-criteria.md)**.
+Inclusion criteria, reading notes, the pronunciation key and the method are in **[corelist-readme.md](corelist-readme.md)**.
 
 ---
 
